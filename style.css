@@ -1,0 +1,168 @@
+body{
+   background-color: #e7f0ff;
+}
+header{}
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+   
+    overflow: hidden;
+}
+.img{
+    float: left;
+   
+    width: 10%;
+}
+.img img{
+    width: 100%;
+}
+.menu{
+    overflow: hidden;
+    width: 70%;
+    
+    float: right;
+}
+.menu ul {
+    float:right;
+}
+.menu ul li{
+    padding-right: 0px;
+    list-style: none;
+    float: left;
+    
+
+}
+.menu ul li a{
+    float: right;
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 95px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #0f2656;;
+    
+    
+}
+/* header end */
+/* text */
+.container2{
+    border: ;
+    text-align: center;
+    font-family: sans-serif;
+    color: #e7f0ff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.text1{
+    font-size: 25px;
+    color:#727d91 ;
+
+}
+.text2{
+    font-size: 35px;
+    font-weight: 800px;
+    color:#000237 ;
+}
+.text3{
+    font-size: 16px;
+    font-weight: 400px;
+    color:#646d7c ;
+}
+/* banner start */
+.banner{
+    width:;
+    height: 700px;
+  
+}
+.img2{
+    width: 100%;
+    text-align: center;
+}
+
+.bb2{
+    
+    overflow: hidden;
+    
+}
+.t1{
+    float: left;
+    
+    width: 49%;
+    padding-left: 40px;
+}
+.t2{
+    float: right;
+    
+    width: 44%;
+    color: #0f2656;
+    font-size: 70px;
+    font-weight: 800;
+    padding-right: 50px;
+}
+.tt1{
+    font-size: 45px;
+    font-weight: 800;
+    color: red;
+    text-align: right;
+    padding-top: 10px;
+}
+.tt2{
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 160px;
+    color: #0f2656;
+}
+/* serves  */
+.serves{
+    padding-left: 100px;
+    padding-right: 100px;
+
+    
+}
+.s_item{
+    overflow: hidden;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.ss_t{
+    padding-left: 25px;
+    padding-top: 60px;
+}
+.s1{
+    float: left;
+    width: 33%;
+}
+.ss1{
+    text-align: center;
+  
+}
+.s2{
+    float: left;
+    width: 33%;
+
+}
+.s3{
+    float: left;
+    width: 33%;
+}
+.s_t1{
+    color: #000237;
+}
+.s_t2{
+    color: #646d7c;
+}
+.st1{
+    color: #000237;
+}
+.sp1{
+    color: #646d7c;
+}
+/* footer */
+footer{
+    height: 60px;
+    text-align: center;
+    background-color;
+    text-decoration: none;
+}
